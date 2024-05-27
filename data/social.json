@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/markarainey"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/markraineyprofile/"
+    }	,
+    {
+      "name": "blog",
+      "icon": "fab fa-blog",
+      "link": "https://ilearnt.com"
+    }
+  ]
+}
