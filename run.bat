@@ -1,2 +1,2 @@
 set PATH=%PATH%;\github\hugo
-npm run dev
+hugo server -D --baseURL=/ --appendPort=false
