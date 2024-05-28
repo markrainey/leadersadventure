@@ -2,7 +2,7 @@
 title: "The Keeper Test"
 meta_title: ""
 description: "How do you work out who your most important or best employees are?"
-date: 2024-04-05T05:00:00Z
+date: 2024-05-27T05:00:00Z
 image: "/images/postimages/TheKeeperTest.png"
 categories: ["People"]
 author: "Mark Rainey"
