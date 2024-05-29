@@ -2,7 +2,12 @@
 # Banner
 banner:
   title: "The Leaders Adventure"
-  content: "A pragmatic approach to leadership of technology teams."
+  content: "Leadership should be an adventure.  \nA journey of discovery and exploration as we lead those around us.  \n
+Sometimes the path we follow may be clear and other times it may be difficult to see.  \n
+Sometimes we may have signs or guides to help us and other times we may need to find the way on our own.  \n
+Sometimes there is a clear destination and sometimes there isn't.  \n
+Sometimes the path will be easy and sometimes there will be obstacles in the way.  \n
+Whatever path we take it should be fun, challenging and memorable and hopefully we will end up in a better place than where we started."
   image: "/images/banner.png"
   button:
     enable: true
