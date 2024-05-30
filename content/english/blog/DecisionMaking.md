@@ -1,17 +1,18 @@
 ---
-title: "Capturing decisions and those involved"
+title: Removing doubt from decisions
 meta_title: ""
-description: "Making sure decisions are captured and who should be involved in making them"
+description: Making sure decisions are captured and who should be involved in making them
 date: 2024-05-28T00:00:00Z
-image: "/images/postimages/DecisionMaking.png"
-categories: ["Teamwork","Meetings"]
-author: "Mark Rainey"
+image: /images/postimages/DecisionMaking.png
+categories:
+  - Teamwork
+  - Meetings
+author: Mark Rainey
 draft: false
 ---
+Have you ever had someone claim that a decision was decided in a different way?
 
 My role has changed recently to include another team. This has also included more interaction with other areas of the business and also the management team.
-
-<!-- more -->
 
 I am finding that making clear informed decisions is becoming more and more important. Some decisions require a quick decision. Some decisions require research and thought. Some decisions can be made by me. Some decisions involve me or require others to make a decision.
 
