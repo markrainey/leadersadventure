@@ -23,6 +23,10 @@ defaultContentLanguageInSubdir = false
 # Ignore the Obsidian templates folder
 ignoreFiles = "/content/english/blog/Templates"
 
+# Used by the twitter card
+[params]
+  images = ['/images/logo_hud9499492c35b4ef88fdfd6514dcc7ab4_8803_320x0_resize_q80_h2_lanczos_3.webp']
+
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
