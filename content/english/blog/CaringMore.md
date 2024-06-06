@@ -1,5 +1,5 @@
 ---
-title: Caring More
+title: Caring more
 meta_title: ""
 description: The people that shine are the ones that care more about what they do.
 date: 2024-06-04T08:47:00
