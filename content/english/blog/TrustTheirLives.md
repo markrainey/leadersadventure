@@ -10,7 +10,7 @@ categories:
 author: Mark Rainey
 draft: false
 ---
-An adventurer leading a group of explorers is obviously responsibly directly for the lives of the people they are leading but is that true of other leaders?
+An adventurer leading a group of explorers is obviously directly responsible for the lives of the people they are leading, but is that true of other leaders?
 
 The people you lead are trusting you with their lives.
 
