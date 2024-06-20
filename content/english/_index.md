@@ -11,7 +11,7 @@ Whatever path we take it should be fun, challenging and memorable and hopefully 
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Read my thoughts now"
+    label: "Read my thoughts here"
     link: "/blog/"
 
 # Features
